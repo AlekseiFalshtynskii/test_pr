@@ -2,9 +2,9 @@ package com.company;
 
 public class Main {
 
-    private Boolean clientGroupDetailization;
+    private Boolean clntGrpDetail;
 
     public static void main(String[] args) {
-        System.out.println(new Main().clientGroupDetailization);
+        System.out.println(new Main().clntGrpDetail);
     }
 }
